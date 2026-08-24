@@ -142,7 +142,7 @@ Trained and compared **6 regression models:**
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/rafihanif30/california-housing-price-prediction.git
+git clone https://github.com/rafihanifafikri/california-housing-price-prediction.git
 cd california-housing-price-prediction
 pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost pycaret missingno
 
